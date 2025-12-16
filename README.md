@@ -1,4 +1,4 @@
-# 🧠 Search Algorithms Playground
+# 🧠 [Search Algorithms Playground](search-algorithms.streamlit.app)
 
 Interactive demos of heuristic and metaheuristic search algorithms,
 built with Streamlit.
